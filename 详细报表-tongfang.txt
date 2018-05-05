@@ -1,0 +1,309 @@
+--------[ 鲁大师 ]--------------------------------------------------------------------------------
+
+  软件:             鲁大师 5.15.17.1001
+  时间:             2018-01-22 17:02:31
+  网站:             http://www.ludashi.com
+
+--------[ 概览 ]----------------------------------------------------------------------------------
+
+  电脑型号            清华同方 K56L 笔记本电脑
+  操作系统            Windows 10 专业版 64位 ( DirectX 12 )
+
+  处理器              英特尔 第四代酷睿 i7-4702MQ @ 2.20GHz 四核
+  主板                清华同方 C15B ( 英特尔 Haswell - Lynx Point )
+  显卡                Nvidia GeForce 840M ( 2 GB )
+  内存                8 GB ( 三星 DDR3L 1600MHz )
+  主硬盘              三星 SSD 850 EVO 120GB ( 120 GB / 固态硬盘 )
+  显示器              京东方 BOE0610 ( 15.3 英寸  )
+  声卡                英特尔 Lynx Point  高保真音频
+  网卡                博通 Wireless 1510 Wireless-N WLAN Mini-Card / 戴尔
+
+--------[ 主板 ]----------------------------------------------------------------------------------
+
+  主板型号            清华同方 C15B
+  芯片组              英特尔 Haswell - Lynx Point
+  序列号              BSN12345678901234567
+  主板版本            1.0
+  BIOS                American Megatrends Inc. C15B.616  /  制造日期: 2014年03月18日
+  BIOS的大小          4096 KB
+  BIOS的序列号        63-0100-000001-00101111-041312-Chipset
+
+  板载设备            视频设备 (启用)
+
+--------[ 处理器 ]--------------------------------------------------------------------------------
+
+  处理器              英特尔 第四代酷睿 i7-4702MQ @ 2.20GHz 四核
+  步进                C0
+  速度                2.20 GHz (100 MHz x 22.0)
+  处理器数量          核心数: 4 / 线程数: 8
+  核心代号            Haswell
+  生产工艺            22 纳米
+  插槽/插座           Socket H3 (LGA 1150)
+  一级数据缓存        4 x 32 KB, 8-Way, 64 byte lines
+  一级代码缓存        4 x 32 KB, 8-Way, 64 byte lines
+  二级缓存            4 x 256 KB, 8-Way, 64 byte lines
+  三级缓存            6 MB, 12-Way, 64 byte lines
+  特征                MMX, SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, HTT, EM64T, EIST, Turbo Boost
+
+--------[ 硬盘 ]----------------------------------------------------------------------------------
+
+  产品                西数 WDC WD10JPVX-22JC3T0
+  大小                1 TB
+  转速                5400 转/分
+  缓存                8 MB
+  硬盘已使用          共 11287 次，累计 9198 小时
+  固件                01.01A01
+  接口                SATA III
+  数据传输率          600.00 MB/秒
+  特征                S.M.A.R.T,  APM,  48-bit LBA,  NCQ
+
+  产品                三星  SSD 850 EVO 120GB (固态硬盘)
+  大小                120 GB
+  缓存                256 MB
+  硬盘已使用          共 9355 次，累计 7558 小时
+  固件                EMT01B6Q
+  接口                SATA III
+  数据传输率          600.00 MB/秒
+  特征                S.M.A.R.T,  48-bit LBA,  NCQ
+
+--------[ 内存 ]----------------------------------------------------------------------------------
+
+  ChannelA-DIMM0      三星 DDR3L 1600MHz 4GB
+  制造日期            2015 年 12月
+  型号                CE M471B5173EB0-YK0
+  序列号              8210C099
+  厂商                SAMSUNG
+  模块位宽:           64 Bits
+  模块电压:           SSTL 1.35V
+
+  ChannelB-DIMM0      三星 DDR3L 1600MHz 4GB
+  制造日期            2015 年 12月
+  型号                CE M471B5173EB0-YK0
+  序列号              8210C0B7
+  厂商                SAMSUNG
+  模块位宽:           64 Bits
+  模块电压:           SSTL 1.35V
+
+--------[ 显卡 ]----------------------------------------------------------------------------------
+
+  显卡                英特尔 HD Graphics 4600
+  显存                112 MB
+  制造商              和硕
+  制造商              Intel
+  驱动版本            20.19.15.4835
+  驱动日期            2017年01月01日
+
+  主显卡              Nvidia GeForce 840M
+  显存                2 GB
+  制造商              Nvidia
+  驱动版本            23.21.13.9065
+  驱动日期            2018年01月03日
+
+--------[ 显示器 ]--------------------------------------------------------------------------------
+
+  产品                京东方 BOE0610
+  厂商                京东方
+  固件日期            2014 年 01月
+  屏幕尺寸            15.3 英寸 (34 厘米 x 19 厘米)
+  显示比例            宽屏 16 : 9
+  分辨率              1536 x 864 32 位真彩色
+  Gamma               2.20
+  最大分辨率          1920 x 1080
+
+--------[ 其他设备 ]------------------------------------------------------------------------------
+
+
+  无线网卡            博通 Wireless 1510 Wireless-N WLAN Mini-Card
+  制造商              戴尔
+
+  网卡                瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller
+  制造商              和硕
+
+  声卡                英特尔 Lynx Point  高保真音频
+
+  键盘                PS/2 标准键盘
+  键盘                HID 标准键盘
+  鼠标                Synaptics SMBus 触摸板
+  鼠标                HID-compliant 鼠标
+
+
+--------[ PCI设备 ]-------------------------------------------------------------------------------
+
+  设备                Haswell DRAM Controller
+  设备ID              0C04
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to HOST
+  子系统制造商        Pegatron
+  子系统ID            210D1B0A
+
+  设备                Haswell PCI Express x16 Controller
+  设备ID              0C01
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to PCI
+  子系统ID            00000000
+
+  设备                HD Graphics 4600
+  设备ID              0416
+  制造商              Intel
+  制造商ID            8086
+  类别                Display / VGA
+  子系统制造商        Pegatron
+  子系统ID            21091B0A
+
+  设备                Lynx Point USB xHCI Host Controller
+  设备ID              8C31
+  制造商              Intel
+  制造商ID            8086
+  类别                Serial / USB (UHCI)
+  子系统制造商        Pegatron
+  子系统ID            210C1B0A
+
+  设备                Lynx Point MEI Controller #1
+  设备ID              8C3A
+  制造商              Intel
+  制造商ID            8086
+  类别                Simple Communication / Other
+  子系统制造商        Pegatron
+  子系统ID            210D1B0A
+
+  设备                Lynx Point USB Enhanced Host Controller #2
+  设备ID              8C2D
+  制造商              Intel
+  制造商ID            8086
+  类别                Serial / USB 2.0 (EHCI)
+  子系统制造商        Pegatron
+  子系统ID            210D1B0A
+
+  设备                Lynx Point HD Audio Controller
+  设备ID              8C20
+  制造商              Intel
+  制造商ID            8086
+  类别                Multimedia / Hi-definition Audio
+  子系统制造商        Pegatron
+  子系统ID            210A1B0A
+
+  设备                Lynx Point PCI Express Root Port 1
+  设备ID              8C10
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to PCI
+  子系统ID            00000000
+
+  设备                Lynx Point PCI Express Root Port 3
+  设备ID              8C14
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to PCI
+  子系统ID            00000000
+
+  设备                Lynx Point PCI Express Root Port 4
+  设备ID              8C16
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to PCI
+  子系统ID            00000000
+
+  设备                Lynx Point USB Enhanced Host Controller #1
+  设备ID              8C26
+  制造商              Intel
+  制造商ID            8086
+  类别                Serial / USB 2.0 (EHCI)
+  子系统制造商        Pegatron
+  子系统ID            210D1B0A
+
+  设备                Lynx Point LPC Controller
+  设备ID              8C49
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to ISA
+  子系统制造商        Pegatron
+  子系统ID            210D1B0A
+
+  设备                Lynx Point 6-Port SATA AHCI Controller
+  设备ID              8C03
+  制造商              Intel
+  制造商ID            8086
+  类别                Storage / Serial ATA (AHCI 1.0)
+  子系统制造商        Pegatron
+  子系统ID            210D1B0A
+
+  设备                Lynx Point SMBus Controller
+  设备ID              8C22
+  制造商              Intel
+  制造商ID            8086
+  类别                Serial / SMBus Controller
+  子系统制造商        Pegatron
+  子系统ID            210D1B0A
+
+  设备                Lynx Point Thermal Management Controller
+  设备ID              8C24
+  制造商              Intel
+  制造商ID            8086
+  类别                Data Aquisition & Signal Processing / Other
+  子系统制造商        Pegatron
+  子系统ID            210D1B0A
+
+  设备                Wireless 1510 Wireless-N WLAN Mini-Card
+  设备ID              432B
+  制造商              Broadcom
+  制造商ID            14E4
+  类别                Network / Other
+  子系统制造商        Dell
+  子系统ID            000D1028
+
+  设备                RTL8168/8111/8112 Gigabit Ethernet Controller
+  设备ID              8168
+  制造商              Realtek
+  制造商ID            10EC
+  类别                Network / Ethernet
+  子系统制造商        Pegatron
+  子系统ID            20D91B0A
+
+  设备                RTL8168/8111/8112 Gigabit Ethernet Controller
+  设备ID              8168
+  制造商              Realtek
+  制造商ID            10EC
+  类别                Network / Ethernet
+  子系统制造商        Pegatron
+  子系统ID            20D91B0A
+
+--------[ USB设备 ]-------------------------------------------------------------------------------
+
+  制造商ID            0DD8
+  产品ID              2300
+  类别                0 / 0 / 0
+  设备                Netac OnlyDisk
+  Serial              655DEB4FEE95
+  版本                USB 2.0
+
+  制造商ID            04D9
+  产品ID              A070
+  类别                0 / 0 / 0
+  设备                Holtek USB Gaming Mouse
+  Serial              ?
+  版本                USB 2.0
+
+  描述                Realtek Card reader
+  制造商ID            0BDA
+  产品ID              0138
+  类别                0 / 0 / 0
+  设备                Generic USB2.0-CRW
+  Serial              20090516388200000
+  版本                USB 2.0
+
+  制造商ID            0BDA
+  产品ID              570B
+  类别                239 / 2 / 1
+  设备                 
+  版本                USB 2.0
+
+--------[ 传感器 ]--------------------------------------------------------------------------------
+
+  CPU温度             73℃
+  CPU核心             70℃
+  CPU封装             80℃
+  显卡                33℃
+  硬盘温度            26℃
+

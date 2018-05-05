@@ -1,0 +1,276 @@
+﻿
+
+--------[ 概览 ]----------------------------------------------------------------------------------
+
+  电脑型号            联想 ThinkPad E450 笔记本电脑
+  操作系统            Windows 10 专业版 64位 ( DirectX 12 )
+
+  处理器              英特尔 第四代酷睿 i5-4210U 双核
+  主板                联想 20DCA03QCD ( 英特尔 Haswell-ULT - Lynx Point-LP )
+  显卡                AMD Radeon R7 M260 ( 2 GB )
+  内存                8 GB ( 三星 DDR3L 1600MHz )
+  主硬盘              西数 WDC WD10JPVX-22JC3T0 ( 1 TB / 5400 转/分 )
+  显示器              京东方 BOE05F3 ( 14 英寸  )
+  声卡                Conexant SmartAudio HD @ 英特尔 Lynx Point-LP  高保真音频
+  网卡                英特尔 Ethernet Connection I218-V / 联想
+
+--------[ 主板 ]----------------------------------------------------------------------------------
+
+  主板型号            联想 20DCA03QCD
+  芯片组              英特尔 Haswell-ULT - Lynx Point-LP
+  序列号              L1HF54204V1
+  主板版本            SDK0E50518 STD
+  BIOS                联想 J5ET44WW (1.15 )  /  制造日期: 2015年12月03日
+  BIOS的大小          16384 KB
+
+
+--------[ 处理器 ]--------------------------------------------------------------------------------
+
+  处理器              英特尔 第四代酷睿 i5-4210U 双核
+  速度                2.40 GHz (100 MHz x 24.0)
+  处理器数量          核心数: 2 / 线程数: 4
+  核心代号            Haswell
+  生产工艺            22.0纳米
+  插槽/插座           BGA1168
+  一级数据缓存        2 x 32 KB, 8-Way, 64 byte lines
+  一级代码缓存        2 x 32 KB, 8-Way, 64 byte lines
+  二级缓存            2 x 256 KB, 8-Way, 64 byte lines
+  三级缓存            3 MB, 12-Way, 64 byte lines
+  特征                MMX, SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, HTT, EM64T, EIST, Turbo Boost
+
+--------[ 硬盘 ]----------------------------------------------------------------------------------
+
+  产品                西数 WDC WD10JPVX-22JC3T0
+  大小                1 TB
+  转速                5400 转/分
+  缓存                8 MB
+  硬盘已使用          共 11424 次，累计 9573 小时
+  固件                01.01A01
+  接口                SATA III
+  数据传输率          600.00 MB/秒
+  特征                S.M.A.R.T,  APM,  48-bit LBA,  NCQ
+
+--------[ 内存 ]----------------------------------------------------------------------------------
+
+  ChannelA-DIMM0      三星 DDR3L 1600MHz 4GB
+  制造日期            2015 年 12月
+  型号                CE M471B5173EB0-YK0
+  序列号              8210C099
+  厂商                SAMSUNG
+  模块位宽:           64 Bits
+  模块电压:           SSTL 1.35V
+
+  ChannelB-DIMM0      三星 DDR3L 1600MHz 4GB
+  制造日期            2015 年 12月
+  型号                CE M471B5173EB0-YK0
+  序列号              8210C0B7
+  厂商                SAMSUNG
+  模块位宽:           64 Bits
+  模块电压:           SSTL 1.35V
+
+--------[ 显卡 ]----------------------------------------------------------------------------------
+
+  显卡                英特尔 Haswell-ULT Integrated Graphics Controller
+  显存                112 MB
+  制造商              联想
+  制造商              Intel
+  驱动版本            20.19.15.4568
+  驱动日期            2016年12月16日
+
+  主显卡              AMD Radeon R7 M260
+  显存                2 GB
+  频率                核心: 980MHz / 显存: 1000MHz
+  制造商              AMD
+  驱动版本            15.200.1045.0
+  驱动日期            2015年06月22日
+
+--------[ 显示器 ]--------------------------------------------------------------------------------
+
+  产品                京东方 BOE05F3
+  厂商                京东方
+  固件日期            2013 年 01月
+  屏幕尺寸            14 英寸 (31 厘米 x 17 厘米)
+  显示比例            宽屏 16 : 9
+  分辨率              1366 x 768 32 位真彩色
+  Gamma               2.20
+  最大分辨率          1366 x 768
+
+--------[ 其他设备 ]------------------------------------------------------------------------------
+
+
+  网卡                英特尔 Ethernet Connection I218-V
+  制造商              联想
+
+  无线网卡            英特尔 Dual Band Wireless AC 3160
+
+  声卡                Conexant SmartAudio HD @ 英特尔 Lynx Point-LP  高保真音频
+
+  键盘                HID 标准键盘
+  键盘                PS/2 标准键盘
+  鼠标                ThinkPad UltraNav
+  鼠标                HID-compliant 鼠标
+
+  摄像头              Integrated Camera
+
+--------[ PCI设备 ]-------------------------------------------------------------------------------
+
+  设备                Haswell-ULT DRAM Controller
+  设备ID              0A04
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to HOST
+  子系统制造商        Lenovo
+  子系统ID            502017AA
+
+  设备                Haswell-ULT Integrated Graphics Controller
+  设备ID              0A16
+  制造商              Intel
+  制造商ID            8086
+  类别                Display / VGA
+  子系统制造商        Lenovo
+  子系统ID            502117AA
+
+  设备                Lynx Point-LP USB xHCI HC
+  设备ID              9C31
+  制造商              Intel
+  制造商ID            8086
+  类别                Serial / USB (UHCI)
+  子系统制造商        Lenovo
+  子系统ID            502017AA
+
+  设备                Lynx Point-LP HECI #0
+  设备ID              9C3A
+  制造商              Intel
+  制造商ID            8086
+  类别                Simple Communication / Other
+  子系统制造商        Lenovo
+  子系统ID            502017AA
+
+  设备                Ethernet Connection I218-V
+  设备ID              1559
+  制造商              Intel
+  制造商ID            8086
+  类别                Network / Ethernet
+  子系统制造商        Lenovo
+  子系统ID            502017AA
+
+  设备                Lynx Point-LP HD Audio Controller
+  设备ID              9C20
+  制造商              Intel
+  制造商ID            8086
+  类别                Multimedia / Hi-definition Audio
+  子系统制造商        Lenovo
+  子系统ID            502017AA
+
+  设备                Lynx Point-LP PCI Express Root Port 1
+  设备ID              9C10
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to PCI
+  子系统ID            00000000
+
+  设备                Lynx Point-LP PCI Express Root Port 3
+  设备ID              9C14
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to PCI
+  子系统ID            00000000
+
+  设备                Lynx Point-LP PCI Express Root Port 5
+  设备ID              9C18
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to PCI
+  子系统ID            00000000
+
+  设备                Lynx Point-LP PCI Express Root Port 6
+  设备ID              9C1A
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to PCI
+  子系统ID            00000000
+
+  设备                Lynx Point-LP USB EHCI #1
+  设备ID              9C26
+  制造商              Intel
+  制造商ID            8086
+  类别                Serial / USB 2.0 (EHCI)
+  子系统制造商        Lenovo
+  子系统ID            502017AA
+
+  设备                Lynx Point-LP LPC Controller
+  设备ID              9C43
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to ISA
+  子系统制造商        Lenovo
+  子系统ID            502017AA
+
+  设备                Lynx Point-LP SATA Controller 1 [AHCI mode]
+  设备ID              9C03
+  制造商              Intel
+  制造商ID            8086
+  类别                Storage / Serial ATA (AHCI 1.0)
+  子系统制造商        Lenovo
+  子系统ID            502017AA
+
+  设备                Lynx Point-LP SMBus Controller
+  设备ID              9C22
+  制造商              Intel
+  制造商ID            8086
+  类别                Serial / SMBus Controller
+  子系统制造商        Lenovo
+  子系统ID            502017AA
+
+  设备                Lynx Point-LP Thermal
+  设备ID              9C24
+  制造商              Intel
+  制造商ID            8086
+  类别                Data Aquisition & Signal Processing / Other
+  子系统制造商        Lenovo
+  子系统ID            502017AA
+
+  设备                Dual Band Wireless AC 3160
+  设备ID              08B4
+  制造商              Intel
+  制造商ID            8086
+  类别                Network / Other
+  子系统制造商        Intel
+  子系统ID            82708086
+
+  设备                Realtek PCIE CardReader
+  设备ID              5227
+  制造商              Realtek
+  制造商ID            10EC
+  类别                 / 
+  子系统制造商        Lenovo
+  子系统ID            502017AA
+
+--------[ USB设备 ]-------------------------------------------------------------------------------
+
+  制造商ID            04D9
+  产品ID              A070
+  类别                0 / 0 / 0
+  设备                Holtek USB Gaming Mouse
+  Serial              ?
+  版本                USB 2.0
+
+  制造商ID            8087
+  产品ID              07DC
+  类别                224 / 1 / 1
+  设备                 
+  版本                USB 2.0
+
+  制造商ID            1BCF
+  产品ID              2C70
+  类别                239 / 2 / 1
+  设备                 
+  版本                USB 2.0
+
+--------[ 传感器 ]--------------------------------------------------------------------------------
+
+  CPU温度             40℃
+  CPU核心             39℃
+  CPU封装             43℃
+  硬盘温度            24℃
+
