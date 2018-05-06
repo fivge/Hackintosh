@@ -92,3 +92,16 @@ config.plist/Devices/FakeID/IntelGFX=0x04128086
  <https://github.com/chunnann/ATH9KFixup>
 
 <https://www.insanelymac.com/forum/forums/topic/312045-atheros-wireless-driver-os-x-101112-for-unsupported-cards/?do=findComment&comment=2509900>
+
+###### 0x10声卡驱动
+
+<https://github.com/vit9696/AppleALC>
+
+`Xcode`编译,联合`Lilu`debug版.
+
+修改clover中的声卡`layout id`
+
+![](https://ws2.sinaimg.cn/large/006tKfTcly1fr1qomeq38j30nn0d6wgy.jpg)
+
+<https://blog.daliansky.net/Use-AppleALC-sound-card-to-drive-the-correct-posture-of-AppleHDA.html>
+
