@@ -77,23 +77,9 @@ config.plist/Devices/FakeID/IntelGFX=0x04128086
 
 **配合DSDT**
 
-<http://www.tonymacx86.com/yosemite-laptop-support/116102-guide-how-patch-dsdt-working-battery-status.html
+<http://www.tonymacx86.com/yosemite-laptop-support/116102-guide-how-patch-dsdt-working-battery-status.html>
 
-###### 0x09 万能声卡驱动
-
-<http://sourceforge.net/projects/voodoohda/files/?source=navbar>
-
-`ALC269VC`
-
-######  0x010 AR956X AR946X AR9485(无线网卡WiFi模块)
-
-<https://github.com/athlonreg/Enable-AR956X-AR946X-AR9485-in-your-hacintosh>
-
- <https://github.com/chunnann/ATH9KFixup>
-
-<https://www.insanelymac.com/forum/forums/topic/312045-atheros-wireless-driver-os-x-101112-for-unsupported-cards/?do=findComment&comment=2509900>
-
-###### 0x10声卡驱动
+###### 0x09声卡驱动
 
 <https://github.com/vit9696/AppleALC>
 
@@ -104,4 +90,26 @@ config.plist/Devices/FakeID/IntelGFX=0x04128086
 ![](https://ws2.sinaimg.cn/large/006tKfTcly1fr1qomeq38j30nn0d6wgy.jpg)
 
 <https://blog.daliansky.net/Use-AppleALC-sound-card-to-drive-the-correct-posture-of-AppleHDA.html>
+
+
+
+###### 0x10 万能声卡驱动
+
+<http://sourceforge.net/projects/voodoohda/files/?source=navbar>
+
+`ALC269VC`
+
+######  0x011 AR956X AR946X AR9485(无线网卡WiFi模块)
+
+> ###### 方法一
+
+<https://github.com/athlonreg/Enable-AR956X-AR946X-AR9485-in-your-hacintosh>
+
+<https://www.insanelymac.com/forum/forums/topic/312045-atheros-wireless-driver-os-x-101112-for-unsupported-cards/?do=findComment&comment=2509900>
+
+> ###### 方法二
+
+ <https://github.com/chunnann/ATH9KFixup>
+
+<https://bitbucket.org/RehabMan/ath9kfixup/overview>
 
