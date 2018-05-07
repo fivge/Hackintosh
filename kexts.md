@@ -14,23 +14,17 @@
 
 [how to install](https://github.com/RehabMan/OS-X-Voodoo-PS2-Controller/wiki/How-to-Install)
 
-- install the VoodooPS2Daemon ??
+- install the VoodooPS2Daemon
 
-```
+```bash
 sudo cp org.rehabman.voodoo.driver.Daemon.plist /Library/LaunchDaemons
 
 sudo cp VoodooPS2Daemon /usr/bin
-
 ```
 
-> 不会弄....
+###### 0x03 USBInjectAll.kext
 
-###### 0x03 USBInjectAll.kext(没必要maybe)
-
-USBInjectAll.kext may be helpful for reaching the installer (and in post-install... see FAQ)
-USBInjectAll.kext: <https://github.com/RehabMan/OS-X-USB-Inject-All>
-
-> 看不懂....
+> ###### 详见kexts
 
 ###### 0x04 Lilu && IntelGraphicsFixup
 
@@ -70,6 +64,8 @@ config.plist/Devices/FakeID/IntelGFX=0x04128086
 
 
 ######  0x07 亮度调节驱动
+
+> ###### 详见kexts
 
 ###### 0x08 电池(待补充)
 
