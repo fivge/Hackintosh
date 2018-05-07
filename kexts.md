@@ -65,6 +65,8 @@ config.plist/Devices/FakeID/IntelGFX=0x04128086
 
 ######  0x07 亮度调节驱动
 
+`AppleBacklightInjector.kext`
+
 > ###### 详见kexts
 
 ###### 0x08 电池(待补充)
