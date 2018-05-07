@@ -83,15 +83,21 @@ config.plist/Devices/FakeID/IntelGFX=0x04128086
 
 <https://github.com/vit9696/AppleALC>
 
+<https://blog.daliansky.net/Use-AppleALC-sound-card-to-drive-the-correct-posture-of-AppleHDA.html>
+
 `Xcode`编译,联合`Lilu`debug版.
 
 修改clover中的声卡`layout id`
 
 ![](https://ws2.sinaimg.cn/large/006tKfTcly1fr1qomeq38j30nn0d6wgy.jpg)
 
-<https://blog.daliansky.net/Use-AppleALC-sound-card-to-drive-the-correct-posture-of-AppleHDA.html>
+**查看效果**
 
+```bash
+kextstat | grep AppleALC
 
+ioreg -l | grep layout-id
+```
 
 ###### 0x10 万能声卡驱动
 
