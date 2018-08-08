@@ -9,9 +9,9 @@
 - search for a method named _OFF
 - examine the resulting files to determine the ACPI path
 
+> ##### 反编译
 
-
-```she
+```bash
 iasl -dl DSDT.aml SSDT*.aml
 
 grep -l Method.*_OFF *.dsl
@@ -35,6 +35,15 @@ DefinitionBlock ("", "SSDT", 2, "hack", "spoof", 0)
     }
 }
 ```
+
+> ##### 编译
+
+```bash
+iasl SSDT-DiscreteSpoof.dsl
+
+```
+
+
 
 >  *This method uses a _DSM method in an SSDT to inject the properties. If your native ACPI has an existing _DSM method at that path, you will need to rename it, because otherwise the native _DSM conflicts with the _DSM the SSDT is adding. Typically, this is done by entering a _DSM->XDSM patch in your config.plist/ACPI/DSDT/Patches. This patch is provided in all my guide plists, but is disabled. *
 
